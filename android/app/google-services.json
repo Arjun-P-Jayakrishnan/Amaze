@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "115635188927",
-    "project_id": "farmhack-f399e",
-    "storage_bucket": "farmhack-f399e.appspot.com"
+    "project_number": "168100498925",
+    "project_id": "legionreload",
+    "storage_bucket": "legionreload.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:115635188927:android:619b719ce8592f2e95c20a",
+        "mobilesdk_app_id": "1:168100498925:android:347e97f566d77025cc6be4",
         "android_client_info": {
           "package_name": "com.example.farm_hack"
         }
       },
       "oauth_client": [
         {
-          "client_id": "115635188927-r2bfev3tj3eter92g3qtnd4a8o5cfijn.apps.googleusercontent.com",
+          "client_id": "168100498925-1fqc1mnhgmdgb57v8ncv3rgrbkob45bq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCXSHsoqlwsZE_HVQVfrU3Mi06SXv2iqb0"
+          "current_key": "AIzaSyBjhBvz-fU8lyciwenSgAztj_xMBkfxVPw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "115635188927-r2bfev3tj3eter92g3qtnd4a8o5cfijn.apps.googleusercontent.com",
+              "client_id": "168100498925-1fqc1mnhgmdgb57v8ncv3rgrbkob45bq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
